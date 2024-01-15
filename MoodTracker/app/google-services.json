@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119899735477",
+    "project_id": "mood-tracker-d1b4a",
+    "storage_bucket": "mood-tracker-d1b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119899735477:android:6827c1fc79e6562bd945fc",
+        "android_client_info": {
+          "package_name": "harish.projects.moodtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7agCTu6pWS1Pb_aG_dAPrR9ik487UFBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
