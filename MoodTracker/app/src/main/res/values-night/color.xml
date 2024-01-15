@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#363668</color>
+    <color name="background_color_50">#B3252547</color>
+    <color name="text_color_header">#fff</color>
+    <color name="text_color_description">#fff</color>
+
+    <color name="cerulean">#0081A7</color>
+    <color name="verdigris">#00AFB9</color>
+    <color name="light_yellow">#FDFCDC</color>
+    <color name="light_orange">#FED9B7</color>
+    <color name="bittersweet">#F07167</color>
+</resources>
